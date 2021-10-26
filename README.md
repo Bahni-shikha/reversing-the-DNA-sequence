@@ -1,0 +1,1 @@
+In this file we use loop function for reversing the sequence. We create a fasta file with which contain 40-45 nucleotide and a header line. we use that file as an input file. one can use fasta file as an input file by downloading it from NCBI site. here other functions are also used for different purpose. 
